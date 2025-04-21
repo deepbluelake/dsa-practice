@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "C_Cpp.default.includePath": ["${D:\\c++\\DSA}/**"],
+  "C_Cpp.default.compilerPath": "g++", // Use your preferred C++ compiler
+  "C_Cpp.default.cStandard": "c11", // Adjust as needed
+  "C_Cpp.default.cppStandard": "c++17", // Adjust as needed
+  "C_Cpp.default.intelliSenseMode": "gcc-x64" // Adjust for your compiler
+}
